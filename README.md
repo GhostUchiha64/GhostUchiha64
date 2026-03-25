@@ -108,7 +108,17 @@ I'm an **MS Data Science candidate at the University of North Dakota (UND)**, sp
 | Data Analyst | Mashreq Bank | Prior |
  
 ---
- 
+
+## 📄 Resume
+
+<p align="center">
+  <a href="./assets/Siddartha_Bandi_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>✉️ Open to Data Science, ML Engineering & Data Engineering roles — let's connect!</i>
 </p>
