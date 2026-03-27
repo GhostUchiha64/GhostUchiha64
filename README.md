@@ -12,6 +12,9 @@
   <a href="https://orcid.org/0009-0003-5100-8520" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0003--5100--8520-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
+  <a href="https://bandisiddartha.github.io/siddartha-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
  
 ---
